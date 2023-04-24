@@ -4,3 +4,9 @@ li.user-data {
 span.user-data {
     font-size: 10px;
 }
+.super-important.highlighted {
+    background-color: red;
+}
+.highlighted.company-data{
+    color: yellow;
+}
